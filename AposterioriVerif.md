@@ -1,0 +1,1 @@
+Database manager is a software application used to check whether data defined following the STK (SCOS-2000) standard upholds all constraints imposed by that standard. More information is available here bit.ly/3ukWOTF
